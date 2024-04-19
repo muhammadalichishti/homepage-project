@@ -107,6 +107,37 @@ a {
     width: 150px;
 }
 
+.gif-two {
+    width: 120px !important;
+}
+
+.gif-three {
+    width: 120px !important;
+    margin-top: -14px;
+    margin-right: 40px;
+}
+
+.ai-text-container {
+    height: 30vh;
+    position: relative;  
+}
+
+.ai-text-container p {
+    margin-top: 5px;
+}
+
+.centered {
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: chilanka !important;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    color: #1E4463;
+  }
+ 
 .quote-container {
     background-color: #e5e7eb;
     padding: 50px;
