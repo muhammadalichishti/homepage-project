@@ -93,16 +93,26 @@ a {
 
 .info {
     display: flex;
-    width: 70%;
+    width: 75%;
     margin: auto;
     justify-content: center;
-    gap: 10px;
+    gap: 40px;
     flex-wrap: wrap;
     padding: 25px 0 0 0;
 }
 
 .info div {
     flex: 1;
+}
+
+.info div p {
+    text-align: none;
+}
+
+span {
+    font-weight: bold;
+    font-family: chilanka !important;
+    color: #3882f6;
 }
 
 .info div img {
